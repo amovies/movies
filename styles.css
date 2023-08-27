@@ -1,0 +1,28 @@
+/* Basic styling for search bar and movie listings */
+.search-container {
+    text-align: center;
+    margin: 20px;
+}
+
+.movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.movie-thumbnail {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+    width: 200px;
+}
+
+/* Styling for individual movie detail page */
+.movie-detail {
+    display: none;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin: 20px;
+}
