@@ -1,7 +1,7 @@
 const movies = [
     // { title: "", releaseDate: "2023-08-25", genre: "Action", languge: "Kannada",  downloadLink: "" },//
 
-
+    { title: "Vedha (2022) ", releaseDate: "2022-12-23", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/bj3rsq2r8xmc/Vedha---40-2022--41--HQ-HDRip---720p---HEVC-----40-AAC-2.0--41---Tam--Tel--Kan--Mal----900MB---ESub.mkv" },
     { title: "Toby kannada", releaseDate: "2023-08-25", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/djli84qbf0hk/Toby---40-2023--41--Kannada-HQ-PreDVD---720p---x264---HQ-Clean-Aud---1.6GB.mkv.mp4" },
    // { title: "", releaseDate: "2023-08-25", genre: "Action", languge: "Kannada",  downloadLink: "" },//
     // Add more movie objects
@@ -65,3 +65,4 @@ searchButton.addEventListener("click", () => {
     const filteredMovies = movies.filter(movie => movie.title.toLowerCase().includes(searchTerm));
     displayMovies(filteredMovies);
 });
+
