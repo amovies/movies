@@ -1,11 +1,12 @@
 const movies = [
     // { title: "", releaseDate: "2023-08-25", genre: "Action", languge: "Kannada",  downloadLink: "" },//
 
+    { title: "Sapta Sagaradaache Ello - Side A (2023) ", releaseDate: "2023-09-01", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/5q6mwfcfjcg4/Sapta-Sagaradaache-Ello---Side-A---40-2023--41--Kannada-HQ-PreDVD---720p---x264---HQ-Clean-Aud---1.4GB.mkv" },
     { title: "Vedha (2022) ", releaseDate: "2022-12-23", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/bj3rsq2r8xmc/Vedha---40-2022--41--HQ-HDRip---720p---HEVC-----40-AAC-2.0--41---Tam--Tel--Kan--Mal----900MB---ESub.mkv" },
     { title: "Toby kannada", releaseDate: "2023-08-25", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/djli84qbf0hk/Toby---40-2023--41--Kannada-HQ-PreDVD---720p---x264---HQ-Clean-Aud---1.6GB.mkv.mp4" },
    // { title: "", releaseDate: "2023-08-25", genre: "Action", languge: "Kannada",  downloadLink: "" },//
     // Add more movie objects
- 
+
 
     { title: "Hostel Hudugaru Bekagiddare (2023)", releaseDate: "2023-07-21", genre: "Action,Comady", languge: "Kannada",  downloadLink: "https://uploady.io/prj0r2qee40j/Hostel-Hudugaru-Bekagiddare---40-2023--41--Kannada-HQ-PreDVD---700MB---x264---HQ-Clean-Aud.mkv" },
     { title: "Gurudev Hoysala (2023) ", releaseDate: "2023-03-30", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/x5hpuyok1c37/Gurudev-Hoysala---40-2023--41--Kannada-HQ-HDRip---700MB---x264---AAC---ESub.mkv" },
