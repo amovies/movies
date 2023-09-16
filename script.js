@@ -1,6 +1,7 @@
 const movies = [
     // { title: "", releaseDate: "2023-08-25", genre: "Action", languge: "Kannada",  downloadLink: "" },//
 
+    
 
     { title: "Meg 2: The Trench (2023)", releaseDate: "2023-08-04", genre: "Action", languge: "Hindi",  downloadLink: "https://uploady.io/6qddlux4eon7/Meg-2---40-2023--41--HQ-HDRip---720p---HEVC---Org-Auds--Tam--Tel--Hin--Eng-.mkv" },
     { title: "The Nun II", releaseDate: "2023-09-07", genre: "Action", languge: "Hindi",  downloadLink: "https://uploady.io/prvz4pom3ucn/The-Nun-II---40-2023--41--Hindi-HQ-HDCAM---720p---x264---HQ-Clean-Aud---AAC---1GB.mkv" },
