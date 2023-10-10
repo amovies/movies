@@ -1,21 +1,21 @@
 const movies = [
     // { title: "", releaseDate: "2023-08-25", genre: "Action", languge: "Kannada",  downloadLink: "" },//
 
-    
 
+    { title: "Hostel Hudugaru Bekagiddare (2023) HD", releaseDate: "2023-07-21", genre: "Action,Comady", languge: "Kannada",  downloadLink: "https://uploady.io/fhs6w7lmery7/Hostel-Hudugaru-Bekagiddare---40-2023--41--C2-A0Kannada-C2-A0HQ-HDRip---700MB---x264---AAC---ESub.mkv.mp4" },
+    { title: "Sapta Sagaradaache Ello - Side A (2023) HD", releaseDate: "2023-09-01", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/rxwszso6d1kv/Sapta-Sagaradaache-Ello---Side-A---40-2023--41--HQ-HDRip---720p---HEVC-----40-AAC-2.0--41---Tam--Kan--Tel--Mal----800MB---ESub.mkv" },
     { title: "Meg 2: The Trench (2023)", releaseDate: "2023-08-04", genre: "Action", languge: "Hindi",  downloadLink: "https://uploady.io/6qddlux4eon7/Meg-2---40-2023--41--HQ-HDRip---720p---HEVC---Org-Auds--Tam--Tel--Hin--Eng-.mkv" },
     { title: "The Nun II", releaseDate: "2023-09-07", genre: "Action", languge: "Hindi",  downloadLink: "https://uploady.io/prvz4pom3ucn/The-Nun-II---40-2023--41--Hindi-HQ-HDCAM---720p---x264---HQ-Clean-Aud---AAC---1GB.mkv" },
     { title: " Jawan (2023) Hindi", releaseDate: "2023-09-7", genre: "Action", languge: "Hindi",  downloadLink: "https://uploady.io/l3n0xbbsgepo/Jawan---40-2023--41--Hindi-HQ-PreDVD---700MB---x264---HQ-Clean-Aud---MP3.mkv" },
     { title: "Gadar 2 (2023) Hindi", releaseDate: "2023-08-11", genre: "Action", languge: "Hindi",  downloadLink: "https://uploady.io/aesuu2u5yqgd/Gadar-2---40-2023--41--Hindi-HQ-PreDVD---700MB---x264---MP3.mkv" },
     { title: "Kushi (2023) Kannada", releaseDate: "2023-09-01", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/i8vvf57x98e8/Kushi---40-2023--41--Kannada-HQ-PreDVD---720p---x264---HQ-Clean-Aud---1.4GB.mkv" },
-    { title: "Sapta Sagaradaache Ello - Side A (2023) ", releaseDate: "2023-09-01", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/5q6mwfcfjcg4/Sapta-Sagaradaache-Ello---Side-A---40-2023--41--Kannada-HQ-PreDVD---720p---x264---HQ-Clean-Aud---1.4GB.mkv" },
     { title: "Vedha (2022) ", releaseDate: "2022-12-23", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/bj3rsq2r8xmc/Vedha---40-2022--41--HQ-HDRip---720p---HEVC-----40-AAC-2.0--41---Tam--Tel--Kan--Mal----900MB---ESub.mkv" },
     { title: "Toby kannada", releaseDate: "2023-08-25", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/djli84qbf0hk/Toby---40-2023--41--Kannada-HQ-PreDVD---720p---x264---HQ-Clean-Aud---1.6GB.mkv.mp4" },
    // { title: "", releaseDate: "2023-08-25", genre: "Action", languge: "Kannada",  downloadLink: "" },//
     // Add more movie objects
 
 
-    { title: "Hostel Hudugaru Bekagiddare (2023)", releaseDate: "2023-07-21", genre: "Action,Comady", languge: "Kannada",  downloadLink: "https://uploady.io/prj0r2qee40j/Hostel-Hudugaru-Bekagiddare---40-2023--41--Kannada-HQ-PreDVD---700MB---x264---HQ-Clean-Aud.mkv" },
+    
     { title: "Gurudev Hoysala (2023) ", releaseDate: "2023-03-30", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/x5hpuyok1c37/Gurudev-Hoysala---40-2023--41--Kannada-HQ-HDRip---700MB---x264---AAC---ESub.mkv" },
     { title: "Kabzaa (2023) ", releaseDate: "2023-03-17", genre: "Action", languge: "Kannada,Hindi,Tamil,Mal,Telg",  downloadLink: "https://uploady.io/f5591d9sw4rd/TheMoviesBoss---Kabzaa.--40-2023--41-.720p.AMZN.WebRip.Multi.AAC2.0.H.264-themoviesboss.mkv" },
     { title: "Shivaji surathkal 2", releaseDate: "2023-04-14", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/42ysclqhvhte/Shivaji-Surathkal-2---40-2023--41--Kannada-HQ-HDTVRip---720p---x264---AAC---1.2GB.mkv" },
