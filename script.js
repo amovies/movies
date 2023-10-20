@@ -3,6 +3,10 @@ const movies = [
 
 
 
+
+
+    { title: "Tatsama Tadbhava (2023) Kannada ", releaseDate: "2023-09-15", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/dfqk500rc1ug/Thathsama-Thathbhava---40-2023--41--Kannada-HQ-HDRip---700MB---x264---AAC---ESub.mkv" },
+    { title: "LEO (2023) Telugu", releaseDate: "2023-10-20", genre: "Action", languge: "Telugu",  downloadLink: "https://uploady.io/po2269jkw30i/LEO---40-2023--41---Telugu---Proper-PreDVDRip---x264---AAC---700MB---HQ-Line-Audio-.mkv" },
     { title: "Leo (2023) Tamil", releaseDate: "2023-10-19", genre: "Action", languge: "Tamil",  downloadLink: "https://uploady.io/2e99jrtph4uv/Leo---40-2023--41--Tamil-C2-A0Proper-HQ-PreDVD---700MB---x264---HQ-Clean-Aud.mkv" },
     { title: " Ghost Kannada 2023", releaseDate: "2023-10-19", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/f5jn76gg9oxb/Ghost---40-2023--41--Kannada-HQ-PreDVD---700MB---x264---HQ-Clean-Aud.mkv" },
     { title: "Hostel Hudugaru Bekagiddare (2023) HD", releaseDate: "2023-07-21", genre: "Action,Comady", languge: "Kannada",  downloadLink: "https://uploady.io/fhs6w7lmery7/Hostel-Hudugaru-Bekagiddare---40-2023--41--C2-A0Kannada-C2-A0HQ-HDRip---700MB---x264---AAC---ESub.mkv.mp4" },
