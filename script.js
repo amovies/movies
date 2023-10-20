@@ -2,6 +2,9 @@ const movies = [
     // { title: "", releaseDate: "2023-08-25", genre: "Action", languge: "Kannada",  downloadLink: "" },//
 
 
+
+    { title: "Leo (2023) Tamil", releaseDate: "2023-10-19", genre: "Action", languge: "Tamil",  downloadLink: "https://uploady.io/2e99jrtph4uv/Leo---40-2023--41--Tamil-C2-A0Proper-HQ-PreDVD---700MB---x264---HQ-Clean-Aud.mkv" },
+    { title: " Ghost Kannada 2023", releaseDate: "2023-10-19", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/f5jn76gg9oxb/Ghost---40-2023--41--Kannada-HQ-PreDVD---700MB---x264---HQ-Clean-Aud.mkv" },
     { title: "Hostel Hudugaru Bekagiddare (2023) HD", releaseDate: "2023-07-21", genre: "Action,Comady", languge: "Kannada",  downloadLink: "https://uploady.io/fhs6w7lmery7/Hostel-Hudugaru-Bekagiddare---40-2023--41--C2-A0Kannada-C2-A0HQ-HDRip---700MB---x264---AAC---ESub.mkv.mp4" },
     { title: "Sapta Sagaradaache Ello - Side A (2023) HD", releaseDate: "2023-09-01", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/rxwszso6d1kv/Sapta-Sagaradaache-Ello---Side-A---40-2023--41--HQ-HDRip---720p---HEVC-----40-AAC-2.0--41---Tam--Kan--Tel--Mal----800MB---ESub.mkv" },
     { title: "Meg 2: The Trench (2023)", releaseDate: "2023-08-04", genre: "Action", languge: "Hindi",  downloadLink: "https://uploady.io/6qddlux4eon7/Meg-2---40-2023--41--HQ-HDRip---720p---HEVC---Org-Auds--Tam--Tel--Hin--Eng-.mkv" },
