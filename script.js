@@ -4,7 +4,12 @@ const movies = [
 
 
 
-
+    { title: "Swathi Mutthina Male Haniy", releaseDate: "2023-11-24", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/dar9c9emakio/Swathi-Mutthina-Male-Haniye---40-2023--41--Kannada-HQ-PreDVD---720p---x264---HQ-Clean-Aud---1.1GB.mkv" },
+    { title: "once upon a time in jamaligudda", releaseDate: "2022-12-30", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/x48a8mwxymrv/Once-Upon-A-Time-In-Jamaaligudda---40-2023--41--Kannada-HQ-HDRip---x264---AAC---700MB-ESub.mkv" },
+    { title: "Bad Manners", releaseDate: "2023-01-24", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/dp0do9pflo8k/Bad-Manners---40-2023--41--Kannada-HQ-PreDVD---700MB---x264---HQ-Clean-Aud.mkv" },
+    { title: "Raja Marthanda (2023) ", releaseDate: "2023-08-06", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/2ckvmzhhp45x/Raja-Marthanda---40-2023--41--Kannada-HQ-HDRip---700MB---x264---AAC---ESub.mkv" },
+    { title: "Sapta Sagaradaache Ello - Side B ", releaseDate: "2023-11-17", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/4jh0u8oeh1gv/Sapta-Sagaradaache-Ello---Side-B---40-2023--41--Kannada-HQ-PreDVD---700MB---x264---HQ-Clean-Aud.mkv" },
+    { title: "Ghost (2023) ", releaseDate: "2023-10-19", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/gr91gxnun83g/Ghost---40-2023--41--Kannada-HQ-PreDVD---700MB---x264---HQ-Clean-Aud.mkv" },
     { title: "Tatsama Tadbhava HD (2023) Kannada ", releaseDate: "2023-09-15", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/dfqk500rc1ug/Thathsama-Thathbhava---40-2023--41--Kannada-HQ-HDRip---700MB---x264---AAC---ESub.mkv" },
     { title: "LEO (2023) Telugu", releaseDate: "2023-10-20", genre: "Action", languge: "Telugu",  downloadLink: "https://uploady.io/po2269jkw30i/LEO---40-2023--41---Telugu---Proper-PreDVDRip---x264---AAC---700MB---HQ-Line-Audio-.mkv" },
     { title: "Leo (2023) Tamil", releaseDate: "2023-10-19", genre: "Action", languge: "Tamil",  downloadLink: "https://uploady.io/2e99jrtph4uv/Leo---40-2023--41--Tamil-C2-A0Proper-HQ-PreDVD---700MB---x264---HQ-Clean-Aud.mkv" },
