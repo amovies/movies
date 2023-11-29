@@ -4,6 +4,7 @@ const movies = [
 
 
 
+    { title: "Baanadariyalli", releaseDate: "2023-09-28", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/aztzphz10pz6/Baanadariyalli---40-2023--41--Kannada-HQ-HDRip---700MB---x264---AAC---ESub.mkv" },
     { title: "Swathi Mutthina Male Haniy", releaseDate: "2023-11-24", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/dar9c9emakio/Swathi-Mutthina-Male-Haniye---40-2023--41--Kannada-HQ-PreDVD---720p---x264---HQ-Clean-Aud---1.1GB.mkv" },
     { title: "once upon a time in jamaligudda", releaseDate: "2022-12-30", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/x48a8mwxymrv/Once-Upon-A-Time-In-Jamaaligudda---40-2023--41--Kannada-HQ-HDRip---x264---AAC---700MB-ESub.mkv" },
     { title: "Bad Manners", releaseDate: "2023-01-24", genre: "Action", languge: "Kannada",  downloadLink: "https://uploady.io/dp0do9pflo8k/Bad-Manners---40-2023--41--Kannada-HQ-PreDVD---700MB---x264---HQ-Clean-Aud.mkv" },
